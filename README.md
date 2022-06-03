@@ -1,5 +1,5 @@
 # ocr-extract
-#### set 'os.environ['GOOGLE_APPLICATION_CREDENTIALS']' to path to your own
+#### set 'os.environ['GOOGLE_APPLICATION_CREDENTIALS']' to path to your own google client path
 
 ### file: csv file with image paths
 ### PATH: path to image folder
